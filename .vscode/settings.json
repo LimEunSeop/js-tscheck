@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.printWidth": 120,
+  "prettier.bracketSpacing": true,
+  "prettier.insertPragma": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.vueIndentScriptAndStyle": false,
+  "prettier.htmlWhitespaceSensitivity": "ignore"
+}
